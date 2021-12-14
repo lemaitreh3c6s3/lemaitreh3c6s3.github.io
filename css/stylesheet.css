@@ -1,0 +1,10 @@
+body{
+    background: black;
+    color: red;
+    margin: 0;
+}
+
+#count-down-timer {
+    margin-top: 250px;
+    font-size: xxx-large;
+}
