@@ -4,7 +4,10 @@ body{
     margin: 0;
 }
 
-#count-down-timer, #playAudio {
+#count-down-timer {
     margin-top: 250px;
     font-size: xxx-large;
+}
+
+#playAudio {
 }
